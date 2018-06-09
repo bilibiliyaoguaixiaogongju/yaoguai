@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bilibiliyaoguaixiaogongju/yaoguai/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bilibiliyaoguaixiaogongju/yaoguai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 等妖怪更新ing……(￣▽￣)~*
+妖怪失踪了？要不要我帮你报警？Σ(っ°Д°;)っ
+喵喵喵(>ω･* )ﾉ
+喵喵喵喵ヽ(･ω･´ﾒ)
+话说妖怪和喵桑是什么关系呀？o(￣▽￣)ｄ 
+朋友？男女朋友？⊙(・◇・)？
+###话说 我为什么要给妖怪创个网页(～￣▽￣)～ 
+其实我正在学 js网页制作。就来创个关于妖怪的网页٩(๑❛ᴗ❛๑)۶
+js真的超复杂，一般人是学不会的。。。(｡◕ˇ∀ˇ◕)
+不过像我这种天才就可以轻松学会ヽ(ﾟ∀ﾟ)ﾒ(ﾟ∀ﾟ)ﾉ 
+（…………）
+网页什么的很容易的……
+### 啊啊啊  这个网页不是关于妖怪的吗？所以我到底在说什么呀？？
+那我们就继续说妖怪吧……(*´ﾟ∀ﾟ｀)ﾉ 
+妖怪是攻还是受？(*/ω＼*)
+妖怪什么时候找男朋友？(*/ω＼*)
+妖怪跟喵桑什么时候结婚？(*/ω＼*)
+……
+咦！妖怪呢？✧(≖ ◡ ≖✿ 
+不好了，妖怪拿着杀猪刀杀过来了……Σ (ﾟДﾟ;) 
